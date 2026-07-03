@@ -15,7 +15,7 @@ I am currently learning Python through an introductory programming class. This r
 - Debugging
 
 ## Projects
-
+- Movie Ticket Software
 
 ## Goal
-My goal is to build a strong foundation in Python and creare a portfolio of projects that I can use for future resume and internship opportunities.
+My goal is to build a strong foundation in Python and create a portfolio of projects that I can use for future resume and internship opportunities.
